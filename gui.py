@@ -34,7 +34,7 @@ while True:
         case 'Edit':
             try:
                 todo_to_edit = values['todos'][0]
-                new_todo = values['todo'] + "\n"
+                new_todo = values['todo']
 
                 todos = functions.get_todos()
                 index = todos.index(todo_to_edit)
