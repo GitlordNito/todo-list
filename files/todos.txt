@@ -2,3 +2,5 @@ python course
 put away washing
 hoover room
 Put out trash
+Further edit
+Clean the program
